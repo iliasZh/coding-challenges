@@ -94,7 +94,8 @@ int main()
     Recipient recipient;
     vector<Message> messages;
     string text;
-	cout << "Press Ctrl+D to finish input!\n";
+    cout << "Press Ctrl+D (UNIX) / type Ctrl+Z (Windows) to finish input!\n";
+    cout << "Press Ctrl+C to quit\n";
     while (getline(cin, text)) 
 	{
         messages.push_back(message_factory.create_message(text));
