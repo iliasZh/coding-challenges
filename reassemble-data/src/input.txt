@@ -1,0 +1,11 @@
+9
+0 1 0 5 world
+0 0 0 5 hello
+0 5 1 5 today
+1 1 0 4 read
+0 2 0 3 how
+0 4 0 3 you
+1 0 0 4 dont
+0 3 0 3 are
+1 2 1 4 this
+0

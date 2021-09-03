@@ -1,0 +1,11 @@
+# swap files
+*.swp
+
+# build files
+build/
+
+# vscode files
+.vscode/
+
+# clangd cache
+.cache/
