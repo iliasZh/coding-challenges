@@ -8,10 +8,10 @@
 #include <stdexcept>
 #include <string>
 #include <vector>
-namespace fsys = std::filesystem;
 
 namespace reassembler_impl
 {
+namespace fsys = std::filesystem;
 struct data_segment
 {
 	int			index		   = -1;
